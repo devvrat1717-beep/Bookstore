@@ -1,0 +1,31 @@
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+  font-size: 16px;
+  color: #252525;
+  background-color: #f4f7fb;
+  background-image: url("Book/cse images.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  }
+  h1, h2, h3 {
+  font-family: Georgia, "Times New Roman", serif;
+  color: #163a63;
+  }
+  p {
+  font-family: Arial, sans-serif;
+  font-size: 17px;
+  line-height: 1.6;
+  }
+  .content-box {
+  background-color: rgba(255, 255, 255, 0.92);
+  padding: 24px;
+  border-radius: 10px;
+  }
+  
+  
+  
+  
+  
+                                                   
+  

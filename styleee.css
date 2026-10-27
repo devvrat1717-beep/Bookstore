@@ -1,0 +1,32 @@
+body {
+  background-color: #f5f5f5;
+  background-image: url("Book/cse images.jpg");
+  background-repeat: repeat;
+  background-position: top left;
+  }
+  a {
+  color: #164e86;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 6px 10px;
+  border-radius: 4px;
+  }
+  a:link {
+  color: #164e86;
+  }
+  a:visited {
+  color: #6b3b86;
+  }
+  a:hover {
+  color: #ffffff;
+  background-color: #ff6600;
+  text-decoration: underline;
+  }
+  a:active {
+  color: #ffffff;
+  background-color: #b33c00;
+  }
+  
+  
+                                                    
+  
